@@ -4,6 +4,8 @@ Python - MySQL Database Access
 ![image](https://user-images.githubusercontent.com/19554935/48982176-fb8a8300-f0ac-11e8-8f8f-49eede816388.png)
 ***
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 ***
 | Unofficial Windows Binaries | Links |
 | --- | --- |
