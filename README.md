@@ -1,2 +1,2 @@
-# PythonMySQL
+# 🐍 PythonMySQL
 Python - MySQL Database Access
