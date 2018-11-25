@@ -3,7 +3,7 @@ Python - MySQL Database Access
 ***
 ![image](https://user-images.githubusercontent.com/19554935/48982176-fb8a8300-f0ac-11e8-8f8f-49eede816388.png)
 ***
-| Unofficial Windows Binaries | Description |
+| Unofficial Windows Binaries | Links |
 | --- | --- |
 | Website | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
 | mysql-python install error | https://stackoverflow.com/questions/26866147/mysql-python-install-error-cannot-open-include-file-config-win-hed |
