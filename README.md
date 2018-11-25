@@ -12,3 +12,7 @@ Python - MySQL Database Access
 <a href="https://facebook.github.io/jest/" rel="nofollow"><img src="https://raw.githubusercontent.com/chentsulin/electron-react-boilerplate/master/internals/img/jest-padded-90.png" style="max-width:100%;"></a>
 <a href="https://yarnpkg.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/chentsulin/electron-react-boilerplate/master/internals/img/yarn-padded-90.png" style="max-width:100%;"></a></p>
 </div>
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
