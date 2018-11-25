@@ -6,7 +6,7 @@ Python - MySQL Database Access
 | Unofficial Windows Binaries | Description |
 | --- | --- |
 | Website | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
-| git diff | Show file differences that haven't been staged |
+| mysql-python install error | https://stackoverflow.com/questions/26866147/mysql-python-install-error-cannot-open-include-file-config-win-hed |
 ***
 <div align="center">
 <p><a href="https://dev.mysql.com/downloads/mysql/" rel="nofollow"><img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" height="80" style="max-width:100%;"></a>
