@@ -3,6 +3,11 @@ Python - MySQL Database Access
 ***
 ![image](https://user-images.githubusercontent.com/19554935/48982176-fb8a8300-f0ac-11e8-8f8f-49eede816388.png)
 ***
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+***
 <div align="center">
 <p><a href="https://dev.mysql.com/downloads/mysql/" rel="nofollow"><img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" height="80" style="max-width:100%;"></a>
 <a href="https://www.python.org/downloads/" rel="nofollow"><img src="http://blog.klocwork.com/wp-content/uploads/2016/01/python-logo.png" height="80" style="max-width:100%;"></a>
@@ -12,7 +17,4 @@ Python - MySQL Database Access
 <a href="https://facebook.github.io/jest/" rel="nofollow"><img src="https://raw.githubusercontent.com/chentsulin/electron-react-boilerplate/master/internals/img/jest-padded-90.png" style="max-width:100%;"></a>
 <a href="https://yarnpkg.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/chentsulin/electron-react-boilerplate/master/internals/img/yarn-padded-90.png" style="max-width:100%;"></a></p>
 </div>
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
