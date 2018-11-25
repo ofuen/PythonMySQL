@@ -4,7 +4,7 @@ Python - MySQL Database Access
 ![image](https://user-images.githubusercontent.com/19554935/48982176-fb8a8300-f0ac-11e8-8f8f-49eede816388.png)
 ***
 <div align="center">
-<p><a href="https://facebook.github.io/react/" rel="nofollow"><img src="https://ubisafe.org/images/svg-logo-reactjs-4.png" height="80" style="max-width:100%;"></a>
+<p><a href="https://facebook.github.io/react/" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mysql/mysql.png" height="80" style="max-width:100%;"></a>
 <a href="https://webpack.github.io/" rel="nofollow"><img src="https://raw.githubusercontent.com/chentsulin/electron-react-boilerplate/master/internals/img/webpack-padded-90.png" style="max-width:100%;"></a>
 <a href="https://git-scm.com/" rel="nofollow"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="80" style="max-width:100%;"></a>
 <a href="https://www.mongodb.com/"><img src="https://gcollazo.github.io/mongodbapp/assets/img/icon.png" height="80" style="max-width:100%;"></a>
