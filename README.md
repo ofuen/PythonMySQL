@@ -3,6 +3,8 @@ Python - MySQL Database Access
 ***
 ![image](https://user-images.githubusercontent.com/19554935/48982176-fb8a8300-f0ac-11e8-8f8f-49eede816388.png)
 ***
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+***
 | Unofficial Windows Binaries | Links |
 | --- | --- |
 | :earth_americas: Website | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
