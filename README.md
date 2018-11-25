@@ -3,9 +3,9 @@ Python - MySQL Database Access
 ***
 ![image](https://user-images.githubusercontent.com/19554935/48982176-fb8a8300-f0ac-11e8-8f8f-49eede816388.png)
 ***
-| Command | Description |
+| Unofficial Windows Binaries | Description |
 | --- | --- |
-| git status | List all new or modified files |
+| Website | https://www.lfd.uci.edu/~gohlke/pythonlibs/ |
 | git diff | Show file differences that haven't been staged |
 ***
 <div align="center">
